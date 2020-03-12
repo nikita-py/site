@@ -1,0 +1,11 @@
+{
+	"name": "react_ru_first",
+	"version": "1.0.0",
+	"description": "My first tutorial",
+	"main": "index.html",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"author": "skromnui ashot",
+	"license": "MIT"
+}
